@@ -78,8 +78,8 @@ function App() {
             <p className="text-lg text-gray-700 mb-4">
               Feel free to reach out to me at:
               <br />
-              <a href="mailto:reyna@example.com" className="text-purple-600 hover:underline">
-                reyna@example.com
+              <a href="mailto:patelreyna2323@gmail.com" className="text-purple-600 hover:underline">
+                patelreyna2323@gmail.com
               </a>
             </p>
             <div className="mt-6">
