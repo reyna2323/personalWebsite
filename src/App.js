@@ -84,13 +84,13 @@ function App() {
             </p>
             <div className="mt-6">
               <a
-                href="https://github.com"
+                href="https://github.com/reyna2323"
                 className="bg-gray-800 text-white py-2 px-4 rounded hover:bg-gray-700"
               >
                 GitHub
               </a>
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/reynapatelegv/"
                 className="ml-4 bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-500"
               >
                 LinkedIn
